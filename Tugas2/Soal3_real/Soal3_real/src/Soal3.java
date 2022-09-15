@@ -125,7 +125,7 @@ public class Soal3 {
 
     static float prosesGatot(long gapok,int tunjangan,int potongan){
         System.out.println("\n--- Proses mencari gaji total ---");
-        return (float)((float)gapok+ ((float)tunjangan/100)-((float)potongan/100));
+        return (float)((float)gapok+ ((float)tunjangan/100*gapok)-((float)potongan/100*gapok));
     }
 
     static void outputKaryawan(String nama,int gol,long gapok,int tunjangan,int potongan,float gatot){

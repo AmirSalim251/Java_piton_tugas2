@@ -2,7 +2,7 @@
 # NPM : 140810210015
 # Kelas : A
 # Tanggal : 9 September 2022
-# Nama Program : Soal3.py
+# Nama Program : soal3.py
 # Deskripsi : Mencari gaji pegawai dan aturan-aturannya
 
 def inputNama():
@@ -70,7 +70,7 @@ def prosesTunjangan(gol):
 
 def prosesGatot(gapok,tun,pot):
     print("\n--- Proses Mencari Gaji Total ---\n")
-    return float(float(gapok) + (float(tun/100) - float(pot/100)))
+    return float(float(gapok) + (float(tun/100*gapok) - float(pot/100*gapok)))
 
 def outputKaryawan(nama,gol,gapok,tun,pot,gatot):
     print("\n--- Output Karyawan ---")

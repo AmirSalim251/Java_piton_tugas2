@@ -2,7 +2,7 @@
 # NPM : 140810210015
 # Kelas : A
 # Tanggal : 9 September 2022
-# Nama Program : Soal2.py
+# Nama Program : soal2.py
 # Deskripsi : Print huruf sesuai angka yang diinput
 
 def inputAngka():

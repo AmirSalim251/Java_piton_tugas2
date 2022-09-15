@@ -6,6 +6,7 @@
 * Nama Program : Soal2.java
 * Deskripsi : Print huruf sesuai angka yang diinput
 */
+
 import java.util.Scanner;
 public class Soal2 {
     static Scanner input=new Scanner(System.in);

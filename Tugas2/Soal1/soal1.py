@@ -2,7 +2,7 @@
 # NPM : 140810210015
 # Kelas : A
 # Tanggal : 9 September 2022
-# Nama Program : Soal1.py
+# Nama Program : soal1.py
 # Deskripsi : Mencari nilai akhir , mutu nilai , dan kriteria lulus mahasiswa
 
 def inputNpm() : 
