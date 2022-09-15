@@ -57,15 +57,6 @@ def printDataMahasiswa(npm,nama,nF,hf,kr):
     print("Huruf Mutu : ",hf)
     print("Kriteria Lulus : ",kr)
 
-npm = " "
-nama = " "
-krit= " "
-hm = ' '
-
-nilai1 = 0
-nilai2 = 0
-nilai3=0
-nilaiF=0.0
 
 npm = inputNpm()
 nama = inputNama()
