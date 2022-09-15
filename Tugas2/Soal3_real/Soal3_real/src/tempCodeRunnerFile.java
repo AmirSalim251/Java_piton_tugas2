@@ -1,0 +1,1 @@
+Bukan termasuk golongan gaji! nilai gapok menjadi 
