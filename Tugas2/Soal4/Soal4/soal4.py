@@ -1,5 +1,5 @@
-# Nama :Amir Salim
-# NPM : 140810210015
+# Nama : Amir Salim , Andre Nathaniel Adipraja , Prames Ray lapian , Ibrahim Dafi Iskandar
+# NPM : 140810210015 , 140810200042 , 140810210059 , 140810210039
 # Kelas : A
 # Tanggal : 9 September 2022
 # Nama Program : soal4.py
